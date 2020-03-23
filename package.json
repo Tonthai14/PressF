@@ -6,6 +6,10 @@
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Tonthai14/Cloud-Hosted-Bot.git"
+    },
     "author": "Tonny",
     "license": "ISC",
     "dependencies": {

@@ -4,7 +4,7 @@ const fs = require("fs");
 bot.commands = new Discord.Collection();
 
 // Login
-const token = 'NjU0MDU1NDE1NTk1Nzk0NDM1.Xe_-oQ.EpxU0ApbtcmmM7VLlANPgx_vKEU';
+const token = 'Token';
 bot.on('ready', ()=> {
     bot.user.setActivity("=help for commands", { type: "LISTENING"});
     console.log('The bot is online'); 
